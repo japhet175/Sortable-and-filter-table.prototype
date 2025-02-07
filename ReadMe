@@ -1,0 +1,4 @@
+This custom table will have the functionality of editing or removing individual items
+ along with sorting and filtering items according to different fields. Also, a form is attached so that 
+ the user can easily edit as well as add more items to the table using that input form. It will consist
+  of 3 namely the Name of the item, the category of the item and the year it was released.
