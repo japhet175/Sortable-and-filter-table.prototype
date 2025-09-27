@@ -1,4 +1,30 @@
-This custom table will have the functionality of editing or removing individual items
- along with sorting and filtering items according to different fields. Also, a form is attached so that 
- the user can easily edit as well as add more items to the table using that input form. It will consist
-  of 3 namely the Name of the item, the category of the item and the year it was released.
+# Sortable & Filter Table
+
+An interactive table built with **HTML, CSS, and JavaScript**. It allows you to:  
+
+- Add new items using a form  
+- Edit or delete existing items  
+- Sort items by Name, Category, or Year  
+- Filter items using the search input  
+
+---
+
+## Features
+
+- Add, edit, and remove items  
+- Sort items by different columns  
+- Filter items dynamically  
+- Simple and responsive interface  
+
+---
+
+## Technologies
+
+- **HTML5** – Page structure  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Interactivity and DOM manipulation  
+
+---
+
+## Project Structure
+
